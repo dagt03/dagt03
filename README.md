@@ -6,27 +6,19 @@ I’m a passionate student and aspiring cybersecurity professional with hands-on
 
 I’m particularly interested in **incident response, forensic analysis, and ethical hacking**, and I love exploring ways technology can both protect and challenge our digital world. I’m always looking to learn from peers, contribute to projects, and connect with professionals in the cybersecurity and forensics community. 🕵
 
----
-
 ## 🛠️ Skills
 - **Programming & Scripting:** C, Bash, Java, HTML5
 - **Cybersecurity Tools:** Wireshark, Autopsy
 - **Forensics & Analysis:** Disk imaging, memory forensics, network analysis
 - **Other:** Git, Docker, Linux administration
 
----
-
 ## 🔭 Projects
 - [E-Commerce Website](#) – An e-commerce website showcasing a variety of products.
 - [Portfolio](#) – A personal website showcasing my work and resume.
 
----
-
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dagt03&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dagt03&layout=compact&theme=tokyonight)
 
 ## 📫 Contact Me
 - Email: [dgalvezterrones@gmail.com](mailto:dgalvezterrones@gmail.com)
