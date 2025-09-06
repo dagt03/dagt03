@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-> "We should not be in the business of building security features, but rather we should be in the business of designing features securely." 💭
+> "We should not be in the business of building security features, but rather we should be in the business of designing features securely." —Professor Fisher (2025) 💭
 
 I’m a passionate student and aspiring cybersecurity professional with hands-on experience in digital forensics, computer security, and cloud technologies. Currently, I serve as a Teaching Assistant for a course in this field, where I enjoy supporting students, solving challenging problems, and deepening my own understanding of cybersecurity concepts. 🔐
 
