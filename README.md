@@ -2,9 +2,11 @@
 
 > "We should not be in the business of building security features, but rather we should be in the business of designing features securely." 💭
 
-I’m a passionate student and aspiring cybersecurity professional with hands-on experience in digital forensics and computer security. Currently, I serve as a **Teaching Assistant** for a course in this field, where I enjoy supporting students, solving challenging problems, and deepening my own understanding of cybersecurity concepts. 🔐
+I’m a passionate student and aspiring cybersecurity professional with hands-on experience in digital forensics, computer security, and cloud technologies. Currently, I serve as a Teaching Assistant for a course in this field, where I enjoy supporting students, solving challenging problems, and deepening my own understanding of cybersecurity concepts. 🔐
 
-I’m particularly interested in **incident response, forensic analysis, and ethical hacking**, and I love exploring ways technology can both protect and challenge our digital world. I’m always looking to learn from peers, contribute to projects, and connect with professionals in the cybersecurity and forensics community. 🕵
+I’m particularly interested in incident response, forensic analysis, ethical hacking, and cloud security, and I love exploring ways technology can both protect and challenge our digital world. ☁️🕵
+
+I’m always looking to learn from peers, contribute to projects, and connect with professionals in the cybersecurity, forensics, and cloud security communities. 🌐
 
 ## 🛠️ Skills
 - **Programming & Scripting:** C, Bash, Java, HTML5
