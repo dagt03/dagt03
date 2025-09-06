@@ -25,3 +25,4 @@ I’m always looking to learn from peers, contribute to projects, and connect wi
 ## 📫 Contact Me
 - Email: [dgalvezterrones@gmail.com](mailto:dgalvezterrones@gmail.com)
 - LinkedIn: [Daniel Galvez](https://linkedin.com/in/danielgalvezt)
+- Resume: [September 2025](https://docs.google.com/document/d/1PgBkH58n1yOUj03FyBzVJHMm00boTONLuZpmQdh_VE4/edit?usp=sharing)
