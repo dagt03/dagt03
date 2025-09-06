@@ -13,8 +13,8 @@ I’m particularly interested in **incident response, forensic analysis, and eth
 - **Other:** Git, Docker, Linux administration
 
 ## 🔭 Projects
-- [E-Commerce Website](#) – An e-commerce website showcasing a variety of products.
-- [Portfolio](#) – A personal website showcasing my work and resume.
+- [E-Commerce Website](https://dagt03.github.io/website-shoetopia/) – An e-commerce website showcasing a variety of products.
+- [Portfolio](https://dagt03.github.io/github-portfolio/) – A personal website showcasing my work and resume.
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dagt03&show_icons=true&theme=tokyonight)
