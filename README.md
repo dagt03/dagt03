@@ -9,20 +9,20 @@ I’m particularly interested in incident response, forensic analysis, ethical h
 I’m always looking to learn from peers, contribute to projects, and connect with professionals in the cybersecurity, forensics, and cloud security communities. 🌐
 
 ## 🛠️ Skills
-- **Programming & Scripting:** C, Bash, Java, HTML5
-- **Cybersecurity Tools:** Wireshark, Autopsy
-- **Forensics & Analysis:** Disk imaging, memory forensics, network analysis
-- **Other:** Git, Docker, Linux administration
+- **Programming:** Python, C, Java, Bash, SQL, HTML, CSS, API Integration
+- **Forensics:** Autopsy, FTK Imager, Wireshark, Nmap, packet capture/analysis
+- **System Administration:** Linux, Windows, MacOS, Windows Server, Active Directory, PowerShell
+- **Other tools:** Git/GitHub, Virtual Machines, Figma
+- **Languages:** Spanish (native), English (fluent)
+
 
 ## 🔭 Projects
-- [E-Commerce Website](https://dagt03.github.io/website-shoetopia/) – An e-commerce website showcasing a variety of products.
-- [Portfolio](https://dagt03.github.io/github-portfolio/) – A personal website showcasing my work and resume.
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dagt03&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dagt03&layout=compact&theme=tokyonight)
+- Voice Assistant for Automated Phone Calls - Voice assistant capable of autonomously making phone calls and scheduling appointments on behalf of users.
+- Custom Linux Shell - Linux shell in C implementing support for built-in commands, foreground/background process execution, piping, redirection, signal handling, and job control.
+- E-Commerce Website - Fully responsive e-commerce storefront featuring product grids, dynamic layout scaling, and intuitive user navigation using HTML5 and CSS.
+- Portfolio – A personal website showcasing my work and resume.
 
 ## 📫 Contact Me
 - Email: [dgalvezterrones@gmail.com](mailto:dgalvezterrones@gmail.com)
-- LinkedIn: [Daniel Galvez](https://linkedin.com/in/danielgalvezt)
-- Resume: [September 2025](https://docs.google.com/document/d/1PgBkH58n1yOUj03FyBzVJHMm00boTONLuZpmQdh_VE4/edit?usp=sharing)
+- LinkedIn: [linkedin/in/danielgalvezt/](https://linkedin.com/in/danielgalvezt)
+- Resume: [Last Updated November 2025](https://drive.google.com/file/d/1Xw9RQxjEwdWqoJa-46oSse9yRG9Y7vJC/view?usp=sharing)
